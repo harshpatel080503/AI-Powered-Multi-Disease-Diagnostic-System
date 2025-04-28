@@ -122,9 +122,7 @@ Data Collection ➔ Preprocessing ➔ Model Training ➔ Model Evaluation ➔ Di
 ---
 
 ## 🚀 Future Work
-- **UI Development:**  
-  Plan to build a user-friendly interface for seamless interaction.
-- **LLM Integration:**  
+- **LLM Integration(INPROGRESS):**  
   Incorporate Large Language Models to provide disease-specific health advice and precautions based on diagnosis results.
 
 ---
