@@ -122,7 +122,7 @@ Data Collection ➔ Preprocessing ➔ Model Training ➔ Model Evaluation ➔ Di
 ---
 
 ## 🚀 Future Work
-- **LLM Integration(INPROGRESS):**  
+- **LLM Integration (IN PROGRESS):**  
   Incorporate Large Language Models to provide disease-specific health advice and precautions based on diagnosis results.
 
 ---
